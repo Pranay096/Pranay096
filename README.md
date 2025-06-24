@@ -32,6 +32,10 @@
 
 ---
 
+## 🏆 Hackathons & Events
+
+- ⚔️ **Inceptia 2025** – Built Logi-ledger AI
+
 ## 📊 GitHub Stats & Contributions
 
 <!-- GitHub Trophy Section -->
