@@ -2,43 +2,45 @@
 <h3 align="center">🚀 Aspiring Machine Learning Engineer | Python Enthusiast | Builder of Wild Ideas</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=I+build+smart+stuff+with+Python;Face+%2B+Gesture+controlled+games;Eye+tracking+%7C+Hand+Tracking+projects;Data+%7C+ML+%7C+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=I+build+smart+stuff+with+Python;Face+%2B+Gesture+controlled+games;Eye+tracking+%7C+Hand+Tracking+projects;ML+%7C+AI+%7C+Automation" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm pursuing **B.Tech in Computer Engineering** from [Your College Name]
-- 👨‍💻 Currently mastering ML
-- 🧠 Learning **Machine Learning** via [Udemy ML Bootcamp](https://www.udemy.com/course/machinelearning/)
-- 🛠️ Experienced in **Python**, **OpenCV**, **Tkinter**,**Tensorflow**,**Pandas**,**Matplot lib**,**Scikit-learn**, and beginner-level **MediaPipe**
-- 🧪 Passionate about merging **AI with real-world projects** and making machines think
+- 🎓 Pursuing **B.Tech in Computer Engineering** from [Your College Name]
+- 👨‍💻 Currently diving deep into Machine Learning
+- 🧠 Learning ML through [Udemy ML Bootcamp](https://www.udemy.com/course/machinelearning/)
+- 🛠️ Skilled in **Python**, **OpenCV**, **Flask**, **TensorFlow**, **Pandas**, **NumPy**, **scikit-learn**
+- 🧪 Passionate about bringing AI to real-world interfaces like games and eye-based control systems
 
 ---
 
 ### 🧩 Featured Projects
 
-- 🎮 **Face Recognition Snake Game**
-  - Uses OpenCV for face unlock and launches a game.
-- 🖐️ **Hand Gesture Controlled Snake**
-  - Coming soon: Control snake via hand gestures using MediaPipe.
-- 👁️ **Eye Tracker Cursor Control**
-  - Control your system cursor with just your eyes!
+- 🎮 **Face Recognition Snake Game**  
+  Uses OpenCV for face unlock and launches a gesture-reactive Snake game
 
-> 🔗 Check out all my projects here: [github.com/Pranay096](https://github.com/Pranay096)
+- 🖐️ **Hand Gesture Controlled Snake**  
+  *Coming Soon:* Play Snake using real-time hand gestures
+
+- 👁️ **Eye Tracker Cursor Control**  
+  Move your system cursor using just your eyes!
+
+🔗 Explore all my projects at: [github.com/Pranay096](https://github.com/Pranay096)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay096&theme=algolia" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay096&theme=algolia" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranay096&show_icons=true&theme=algolia" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay096&layout=compact&theme=algolia" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranay096&show_icons=true&theme=algolia" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay096&layout=compact&theme=algolia&langs_count=6&hide=html,css" width="48%" />
 </p>
 
 ---
@@ -48,18 +50,23 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tkinter-ffb400?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-FF6C37?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect
 
 - 📧 Email: pranaypelapkar11@gmail.com  
-- 📱 LinkedIn: [linkedin.com/in/pranay-pelapkar-3591b4333](https://linkedin.com/in/pranay-pelapkar-3591b4333)  
-- 🌐 Portfolio (soon): [pranaypelapkar.dev](https://pranaypelapkar.dev)
+- 💼 LinkedIn: [linkedin.com/in/pranay-pelapkar-3591b4333](https://linkedin.com/in/pranay-pelapkar-3591b4333)  
+- 🌐 Portfolio (Coming Soon): [pranaypelapkar.dev](https://pranaypelapkar.dev)
 
 ---
 
