@@ -10,10 +10,10 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm pursuing **B.Tech in Computer Engineering** from [Your College Name]
-- 👨‍💻 Currently working on **Gesture & Eye-Controlled Applications**
+- 👨‍💻 Currently mastering ML
 - 🧠 Learning **Machine Learning** via [Udemy ML Bootcamp](https://www.udemy.com/course/machinelearning/)
-- 🛠️ Experienced in **Python**, **OpenCV**, **Tkinter**, and beginner-level **MediaPipe**
-- 🧪 Passionate about merging **AI with real-world projects**
+- 🛠️ Experienced in **Python**, **OpenCV**, **Tkinter**,**Tensorflow**,**Pandas**,**Matplot lib**,**Scikit-learn**, and beginner-level **MediaPipe**
+- 🧪 Passionate about merging **AI with real-world projects** and making machines think
 
 ---
 
