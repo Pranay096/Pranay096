@@ -28,7 +28,7 @@
 - 👁️ **Eye Tracker Cursor Control**  
   Move your system cursor using just your eyes!
 
-🔗 Explore all my projects at: [github.com/Pranay096](https://github.com/Pranay096?tab=repositories)
+🔗 Explore all my projects at: [Repositories](https://github.com/Pranay096?tab=repositories)
 
 ---
 
