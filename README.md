@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Engineering** from [Your College Name]
+- 🎓 Pursuing **B.Tech in Computer Engineering** from Pillai College Of Engineering
 - 👨‍💻 Currently diving deep into Machine Learning
 - 🧠 Learning ML through [Udemy ML Bootcamp](https://www.udemy.com/course/machinelearning/)
 - 🛠️ Skilled in **Python**, **OpenCV**, **Flask**, **TensorFlow**, **Pandas**, **NumPy**, **scikit-learn**
