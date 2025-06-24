@@ -40,7 +40,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pranay096&show_icons=true&theme=algolia" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay096&layout=compact&theme=algolia&langs_count=6&hide=html,css" width="48%" />
+  <img scr="https://github-readme-stats.vercel.app/api?username=Pranay096&show_icons=true&theme=algolia&count_private=true&hide_title=true />
+
 </p>
 
 ---
