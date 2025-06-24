@@ -32,16 +32,27 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
+<!-- GitHub Trophy Section -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay096&theme=algolia" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranay096&theme=algolia&no-frame=true&title=Stars,Commits,PRs,Issues,Repositories,Followers" />
 </p>
 
+<!-- GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranay096&show_icons=true&theme=algolia" width="48%" />
-  <img scr="https://github-readme-stats.vercel.app/api?username=Pranay096&show_icons=true&theme=algolia&count_private=true&hide_title=true />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranay096&show_icons=true&theme=algolia&count_private=true&hide_title=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay096&layout=compact&theme=algolia&hide=html,css" width="48%"/>
+</p>
 
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay096&theme=algolia&hide_border=true" width="60%" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay096&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
