@@ -1,78 +1,72 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Pranay+Pelapkar;Python+Developer+%7C+ML+Enthusiast;I+build+tech+that+sees%2C+thinks+%26+acts" alt="Typing animation" />
-</p>
+<h1 align="center">Hi there 👋, I'm Pranay Pelapkar</h1>
+<h3 align="center">🚀 Aspiring Machine Learning Engineer | Python Enthusiast | Builder of Wild Ideas</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff&animation=twinkling" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-🎓 Pursuing **Bachelor's in Computer Engineering**  
-🔍 Exploring **Machine Learning**, **Computer Vision**, and **Automation**  
-💡 Passionate about solving real-world problems through **Python-powered AI**  
-🚀 Building innovative projects that include face detection, hand tracking & eye-controlled systems  
-📍 Based in **Navi Mumbai, India**
-
----
-
-## 💼 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-%23004888?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-%23FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tkinter-%2300A98F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=I+build+smart+stuff+with+Python;Face+%2B+Gesture+controlled+games;Eye+tracking+%7C+Hand+Tracking+projects;Data+%7C+ML+%7C+Automation" />
 </p>
 
 ---
 
-## 🧠 Featured Projects
+### 🧑‍💻 About Me
 
-### 🎮 Face Recognition Snake Game  
-A fun project where face unlock grants access to a gesture-controlled Snake game using OpenCV + MediaPipe  
-![snake](https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif)
-
----
-
-### 👁️ Eye-Tracking Cursor  
-Control your mouse pointer using your **eye movements**—no mouse needed!  
-Built using OpenCV + facial landmark detection  
-![eye](https://media.giphy.com/media/kH5oTYvPg5ZPo/giphy.gif)
+- 🎓 I'm pursuing **B.Tech in Computer Engineering** from [Your College Name]
+- 👨‍💻 Currently working on **Gesture & Eye-Controlled Applications**
+- 🧠 Learning **Machine Learning** via [Udemy ML Bootcamp](https://www.udemy.com/course/machinelearning/)
+- 🛠️ Experienced in **Python**, **OpenCV**, **Tkinter**, and beginner-level **MediaPipe**
+- 🧪 Passionate about merging **AI with real-world projects**
 
 ---
 
-### 💳 UPI Fallback Payment System  
-A smart payment system that handles **bank server downtime** using fallback APIs and shared UPI pools
+### 🧩 Featured Projects
+
+- 🎮 **Face Recognition Snake Game**
+  - Uses OpenCV for face unlock and launches a game.
+- 🖐️ **Hand Gesture Controlled Snake**
+  - Coming soon: Control snake via hand gestures using MediaPipe.
+- 👁️ **Eye Tracker Cursor Control**
+  - Control your system cursor with just your eyes!
+
+> 🔗 Check out all my projects here: [github.com/Pranay096](https://github.com/Pranay096)
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranay096&show_icons=true&theme=react&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Pranay096&theme=react&hide_border=true" width="48%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay096&layout=compact&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay096&theme=algolia" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranay096&show_icons=true&theme=algolia" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay096&layout=compact&theme=algolia" alt="Languages" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+### 🛠️ Tech Stack
 
 <p align="center">
-  <a href="mailto:pranaypelapkar11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pranay-pelapkar-3591b4333/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Pranay096"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tkinter-ffb400?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FF6C37?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 ---
 
+### 📫 Connect with Me
+
+- 📧 Email: pranaypelapkar11@gmail.com  
+- 📱 LinkedIn: [linkedin.com/in/pranay-pelapkar-3591b4333](https://linkedin.com/in/pranay-pelapkar-3591b4333)  
+- 🌐 Portfolio (soon): [pranaypelapkar.dev](https://pranaypelapkar.dev)
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
+
+---
+
+> ⚡ *“Making machines see, think, and play just like us!”*
