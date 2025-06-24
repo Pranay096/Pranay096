@@ -61,13 +61,6 @@
 
 ---
 
-## 🌐 GitHub Activity Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay096&theme=react-dark&area=true" />
-</p>
-
-
 ### 🛠️ Tech Stack
 
 <p align="center">
