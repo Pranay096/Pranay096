@@ -74,20 +74,6 @@
 
 ---
 
-## 🎥 AI Projects in Action
-
-<table>
-  <tr>
-    <td align="center"><b>Face Unlock Snake</b></td>
-    <td align="center"><b>Eye Tracker Cursor</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="250"/></td>
-    <td><img src="https://media.giphy.com/media/kH5oTYvPg5ZPo/giphy.gif" width="250"/></td>
-  </tr>
-</table>
-
-
 ### 📫 Let's Connect
 
 - 📧 Email: pranaypelapkar11@gmail.com  
