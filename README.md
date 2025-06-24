@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Machine Learning Engineer | Python Enthusiast | Builder of Wild Ideas</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=I+build+smart+stuff+with+Python;Face+%2B+Gesture+controlled+games;Eye+tracking+%7C+Hand+Tracking+projects;ML+%7C+AI+%7C+Automation" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=I+build+smart+stuff+with+Python;Face+%2B+Gesture+controlled+games;Eye+tracking+%7C+Hand+Tracking+projects;ML+%7C+AI+%7C+Automation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Face+Unlock;Eye+Tracking;Hand+Gesture+Control;Mood-Based+Music+Suggester;Machine+Learning+Projects;Data+Visualization;Model+Training+%26+Evaluation" alt="Typing SVG" />
 </p>
 
 ---
